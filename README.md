@@ -37,30 +37,5 @@ MySQL · Git · GitHub
 ### Additional Programming
 Python · Java · C++
 
-## 🚀 Selected Projects
-
-### Restaurant Management System
-A PHP-based web application developed to support restaurant operations and data management.
-
-[View repository](https://github.com/Shenjuti/Restaurant_Management_System-RMS)
-
-### Tech Blogging Platform
-A PHP-based blogging platform designed for publishing and managing technology-related content.
-
-[View repository](https://github.com/Shenjuti/Tech_Blogging-Master)
-
-### Staff Management System
-A C++ application developed to organize and manage employee information.
-
-[View repository](https://github.com/Shenjuti/Staff_Management_System)
-
 ### Portfolio Website
 A fully responsive personal portfolio developed using HTML, CSS, and JavaScript.
-
-[View my portfolio](https://shenjuti.github.io/Portfolio/)
-
-## 📫 Connect With Me
-
-- **LinkedIn:** [Maria Mehjabin Shenjuti](https://www.linkedin.com/in/mariamehjabin/)
-- **Email:** [mariamehjabin10@gmail.com](mailto:mariamehjabin10@gmail.com)
-```
