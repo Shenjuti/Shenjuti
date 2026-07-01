@@ -3,9 +3,16 @@
 
 ### Web Developer | UI/UX Designer | SEO & Digital Marketing
 
-I am a Computer Science and Engineering graduate and Web Developer specializing in responsive, user-friendly, and search-optimized websites.
+<p>
+I am a Computer Science and Engineering graduate and Web Developer
+specializing in responsive, user-friendly, and search-optimized websites.
+</p>
 
-I combine web development, UI/UX design, SEO, and digital marketing to create digital experiences that support usability, visibility, and business growth.
+<p>
+I combine web development, UI/UX design, SEO, and digital marketing
+to create digital experiences that support usability, visibility,
+and business growth.
+</p>
 
 ## 👩‍💻 About Me
 
