@@ -57,12 +57,10 @@ A C++ application developed to organize and manage employee information.
 ### Portfolio Website
 A fully responsive personal portfolio developed using HTML, CSS, and JavaScript.
 
-[View my portfolio](YOUR-PORTFOLIO-URL)
+[View my portfolio](https://shenjuti.github.io/Portfolio/)
 
 ## 📫 Connect With Me
 
-- **Portfolio:** [Visit my portfolio](YOUR-PORTFOLIO-URL)
-- **LinkedIn:** [Maria Mehjabin Shenjuti](https://www.linkedin.com/in/maria-mehjabin-56b21a1a4)
+- **LinkedIn:** [Maria Mehjabin Shenjuti](https://www.linkedin.com/in/mariamehjabin/)
 - **Email:** [mariamehjabin10@gmail.com](mailto:mariamehjabin10@gmail.com)
-- **GitHub:** [Shenjuti](https://github.com/Shenjuti)
 ```
